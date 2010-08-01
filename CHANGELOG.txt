@@ -1,0 +1,11 @@
+v1.2 (1 Aug 2010):
+- Open source version
+
+v1.1 (23 May 2009):
+- Fixed a few small state bugs (not all touch events, such as Touch Drag Enter
+  were handled properly)
+- Name on phone is now "Countdown", not "Ultim...tdown"
+- Icon is now without the glossy effect
+
+v1.0 (14 Sept 2008):
+- First version
